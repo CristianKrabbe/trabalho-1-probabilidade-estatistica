@@ -78,22 +78,4 @@ else:
                 print(f'A probabilidade de algum item ser defeituoso é {100*erro:.2f}%')
                 
             else:
-                sys.exit()
-        
-        
-     
-    
-
-   
-    
-   
-    
-   
-    
-
-    
-    
-    
-    
-
-        
+                sys.exit()      
